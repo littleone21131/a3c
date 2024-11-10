@@ -1,0 +1,12 @@
+angular js
+
+AngularJS is a JavaScript framework developed by Google for building dynamic, single-page web applications (SPAs). It uses two-way data binding, automatically synchronizing the model and view. Directives extend HTML with custom behavior, and controllers manage data and logic. AngularJS supports dependency injection for better modularity and testing. It also provides routing for client-side navigation without page reloads.
+key points
+Two-way data binding synchronizes model and view automatically.
+Directives extend HTML with custom behavior and logic.
+Controllers manage data and business logic for views.
+Dependency injection promotes modularity and testability.
+Routing enables client-side navigation for single-page applications
+angular full-fledged framework,two-way data binding,less efficient for large applications.,
+react.js building user interfaces ,one-way data binding,improving performance for larger and more complex UIs.
+ 
