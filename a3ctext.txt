@@ -1,3 +1,8 @@
+npm install @angular/cli
+ng new student
+cd student
+ng serve
+
 angular js
 
 AngularJS is a JavaScript framework developed by Google for building dynamic, single-page web applications (SPAs). It uses two-way data binding, automatically synchronizing the model and view. Directives extend HTML with custom behavior, and controllers manage data and logic. AngularJS supports dependency injection for better modularity and testing. It also provides routing for client-side navigation without page reloads.
